@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.latest-match-container {
+  margin-top: 24px;
+}
+.latest-match-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  display: block;
+}
+.latest-match-card {
+  display: flex;
+  flex-direction: column;
+  background-color: #0f172a;
+  border-radius: 12px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}

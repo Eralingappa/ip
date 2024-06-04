@@ -1,0 +1,31 @@
+.match-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #0f172a;
+  width: 48px;
+}
+.competing-team-logo {
+  max-width: 60px;
+  height: 40px;
+}
+.competing-team-name {
+  text-align: center;
+  color: #ffffff;
+  flex-grow: 1;
+  font-size: 16px;
+}
+.result {
+  text-align: center;
+  font-size: 10px;
+}
+.match-status {
+  font-family: 'Bree Serif';
+  font-size: 14px;
+}
+.match-won {
+  color: #18ed66;
+}
+.match-lost {
+  color: #e3191a;
+}
